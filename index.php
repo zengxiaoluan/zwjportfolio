@@ -1,9 +1,24 @@
-<?php 
-echo "hello worldhhhh1234";
- ?>
-<h1>dfdfdf</h1>
-<style>
-h1{
-color:red;
-}
-</style>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>xpgellen</title>
+    <style>
+        #id{
+            position: absolute;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            left: 0px;
+        }
+    </style>
+</head>
+<body>
+    <div id="ellen">
+        hello
+    </div>
+    <script>
+        
+    </script>
+</body>
+</html>
