@@ -5,3 +5,7 @@ Author URI: http://zengxiaoluan.com
 Description: 文君子的个站WordPress主题
 Version: 1.0
 */
+h1{
+    color:red;
+    background: grey;
+}
