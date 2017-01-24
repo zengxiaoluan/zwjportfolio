@@ -9,5 +9,6 @@ add_theme_support( 'custom-logo',  array(
     'header-text' => array( 'site-title', 'site-description' )
 ) );
 register_nav_menus( array(
-    'zwj' => __( 'zwj主菜单', 'zwj' ),
+    'zwj'           =>  __( 'zwj主菜单', 'zwj' ),
+    'zwj_footer'    =>  __( 'zwj页脚菜单', 'default' )
 ) );

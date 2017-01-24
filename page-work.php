@@ -24,7 +24,7 @@ get_header( null );
         <?php
             $query_args = array(
                 'post_type' => 'post',
-                'posts_per_page' => 5
+                'posts_per_page' => 20
             );
             $query = new WP_Query( $query_args );
             

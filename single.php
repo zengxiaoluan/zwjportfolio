@@ -20,7 +20,7 @@ get_header( null );
             <div class="content">
                 <?php the_post_thumbnail( 'post-thumbnail', '' ); ?>
                 <div>
-                    <?php the_excerpt(); ?>
+                    <?php the_content(); ?>
                 </div>
             </div>
         </article>
