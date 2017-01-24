@@ -29,7 +29,6 @@ get_header( null );
         endwhile;
     ?>
 
-
 <?php 
 get_footer( null );
 ?>
